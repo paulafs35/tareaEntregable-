@@ -1,7 +1,5 @@
 FROM php:7.4-apache
 
-WORKDIR /var/www/html/
+WORKDIR /var/www/
 
-COPY index.html .
-COPY styles.css .
-COPY mes.php .
+COPY ./html ./html
