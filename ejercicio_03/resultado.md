@@ -33,4 +33,4 @@
     docker network rm network 
     ```
 
-    ![](./path/to/file)
+    ![](./images/delete.jpg)
