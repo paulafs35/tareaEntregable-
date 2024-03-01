@@ -40,6 +40,8 @@
 
 5. Captura de pantalla y documento donde se vea la bajada de la imagen - **por parte de otra persona del grupo** - y la creación de un contenedor.
 
+    ![](./images/descarga.jpg)
+
 6. Captura de pantalla y documento donde se ve el acceso al navegador con el sitio servido
 
     ![](./images/index.png)
