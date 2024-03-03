@@ -1,0 +1,11 @@
+services:
+  cmatrix:
+    image: defnotgustavom/cmatrix
+    tty: true
+    stdin_open: true
+    network_mode: none
+    read_only: true
+    cap_drop:
+      - ALL
+    logging:
+      driver: none
